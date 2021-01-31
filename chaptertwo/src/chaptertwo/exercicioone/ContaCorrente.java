@@ -29,9 +29,11 @@ public class ContaCorrente {
 	}
 	
 	public void imprimir() {
-		System.out.println("Agencia..................: " + this.agencia);
-		System.out.println("Conta....................: " + this.conta);
-		System.out.println("Saldo....................: " + this.saldo);
-		System.out.println("Nome do Cliente..........: " + this.nomeCliente);
+		System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++");
+		System.out.println("	Agencia..................: " + this.agencia);
+		System.out.println("	Conta....................: " + this.conta);
+		System.out.println("	Saldo....................: " + this.saldo);
+		System.out.println("	Nome do Cliente..........: " + this.nomeCliente);
+		System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++");
 	}
 }
