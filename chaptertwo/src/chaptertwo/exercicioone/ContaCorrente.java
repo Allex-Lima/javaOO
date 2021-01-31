@@ -2,10 +2,10 @@ package chaptertwo.exercicioone;
 
 public class ContaCorrente {
 	
-	private Long agencia;
-	private String conta;
-	private double saldo;
-	private String nomeCliente;
+	Long agencia;
+	String conta;
+	double saldo;
+	String nomeCliente;
 	
 	public ContaCorrente() { }
 	
